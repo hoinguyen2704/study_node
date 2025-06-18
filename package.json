@@ -15,5 +15,8 @@
     "name": "horizyng",
     "email": "horizyng@gmail.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
