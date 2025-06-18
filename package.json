@@ -1,0 +1,19 @@
+{
+  "name": "study_node",
+  "version": "1.0.0",
+  "description": "hoc nodejs hoi dan it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": {
+    "name": "horizyng",
+    "email": "horizyng@gmail.com"
+  },
+  "license": "ISC"
+}
